@@ -95,7 +95,7 @@ This bot is for educational purposes only. Cryptocurrency trading carries a high
 
 
 ## Functionality
-
+```
 Asset balance tracking: ✅ Satisfied
 The bot starts with 10 ETH and 2000 USD, as seen in the initial balance reports.
 Placing BID and ASK orders: ✅ Satisfied
@@ -110,7 +110,7 @@ Showing overall asset balances every 30 seconds: ✅ Satisfied
 Balance reports are shown periodically, which appears to be every 30 seconds.
 Clean, readable code with test cases: ✅ Satisfied
 The code is clean and readable, but we haven't implemented test cases in this version.
-
+```
 ## Testing
 
 The test suite tests for the following functionality and produces the following test outcome:
