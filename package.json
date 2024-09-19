@@ -1,0 +1,18 @@
+{
+  "name": "market-making-bot",
+  "version": "1.0.0",
+  "description": "A simple market-making bot for cryptocurrency trading",
+  "main": "market-making-bot.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.3",
+    "typescript": "^4.3.5"
+  }
+}
