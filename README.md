@@ -119,7 +119,7 @@ Launch test suite
 ```
 npx jest
 ```
-
+```
  PASS  ./test.ts
   MarketMakingBot
     ✓ should initialize with correct balance (3 ms)
@@ -136,14 +136,14 @@ Tests:       8 passed, 8 total
 Snapshots:   0 total
 Time:        3.27 s, estimated 4 s
 Ran all test suites.
-
+```
 ## Output
 
 Launch bot script
 ```
 npx ts-node market-making-bot.ts               
 ```
-
+```
 Market-making bot started...
 Market update: Current price: $2434.83, 24h High: $2440.58, 24h Low: $2285.67
 PLACE BID @ 2429.37 0.0205
@@ -211,3 +211,4 @@ Open orders: 10
 Current balance: 10.0173 ETH, 1957.95 USD
 Market update: Current price: $2432.36, 24h High: $2440.58, 24h Low: $2285.67
 Open orders: 10
+```
