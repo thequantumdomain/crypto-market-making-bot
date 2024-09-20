@@ -170,3 +170,6 @@ export class MarketMakingBot {
     return [...this.orders];
   }
 }
+
+const bot = new MarketMakingBot('ethereum');
+bot.run().catch(error => console.error('Bot error:', error));
